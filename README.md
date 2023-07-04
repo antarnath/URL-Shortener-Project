@@ -18,3 +18,7 @@ The URL Shortener Project is a web application that allows users to shorten long
 #### Frontend: HTML, CSS
 #### Backend: Python, Django framework
 #### Database: PostgreSQL
+## Output
+![url shortener project1](https://github.com/antarnath/URL-Shortener-Project/assets/110054984/6c18e3cc-6f84-4ea3-8464-cc86f6e55bfd)
+## Admin Panel
+![url shortener project2](https://github.com/antarnath/URL-Shortener-Project/assets/110054984/8f8e0760-60ba-4b22-8f55-641c3e1b1707)
