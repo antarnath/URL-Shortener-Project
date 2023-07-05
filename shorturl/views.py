@@ -40,4 +40,4 @@ def redirect_url_view(request, shortened_part):
         shortener.save()
         return HttpResponseRedirect(shortener.long_url)
     except Shortener.DoesNotExist:
-        raise Http404('Sorry, this link is broken :(')
+        raise Http404('Sorry, this link is broken')
